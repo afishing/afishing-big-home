@@ -5,6 +5,6 @@
  [点我进入游戏主页](https://afishing.me.game.html)。
 
 ### 或者请先欣赏一下美图
-![](https://pic.netbian.com/uploads/allimg/230224/131035-1677215435a04e.jpg)
+![](https://github.com/afishing/afishing.github.io/blob/main/131035-1677215435a04e.jpg)
 
 
