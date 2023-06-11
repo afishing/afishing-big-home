@@ -6,7 +6,7 @@
 
 ### 或者请先看会儿别的
 [图片展示方式一](https://afishing.me/firstShow.html)<br>
-[图片展示方式二](https://afishing.me/SecondShow.html)<br>
+[图片展示方式二](https://afishing.me/secondShow.html)<br>
 
 #### 后续还会不断更新，谢谢您的观看！！！
 
