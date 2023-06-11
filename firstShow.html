@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div class="loopimg">
+       <ul>
+        <li>
+         <img src="img.png" height="300px"/>
+        </li>
+        <li>
+         <img src="img_0.png" height="200px"/>
+        </li>
+        <li>
+         <img src="img_1.png" height="200px"/>
+        </li>
+        <li>
+         <img src="img_2.png" height="200px"/>
+        </li>
+        <li>
+         <img src="img_3.png" height="200px"/>
+        </li>
+        <li>
+         <img src="img_4.png" height="200px"/>
+        </li>
+        <li>
+         <img src="img_5.png" height="200px"/>
+        </li>
+        <li>
+         <img src="img_6.png" height="200px"/>
+        </li>
+        <li>
+         <img src="img_7.png" height="200px"/>
+        </li>
+        <li>
+         <img src="img_8.png" height="200px"/>
+        </li>
+        <li>
+         <img src="img_9.png" height="200px"/>
+        </li>
+        <li>
+         <img src="img_10.png" height="200px"/>
+        </li>
+        <li>
+         <img src="img_11.png" height="200px"/>
+        </li>
+        <li>
+         <img src="img_12.png" height="200px"/>
+        </li>
+       </ul>
+      </div>
+
+
+</body>
+</html>
+
+<style>
+ .loopimg{
+ width: 4173px;
+ height: 200px;
+ margin: 0px auto;
+ padding: 0px;
+ overflow: hidden;
+}
+.loopimg > ul{
+ width: 100%;
+ /*动画名称*/
+ animation-name: move;
+ /*动画时间*/
+ animation-duration: 15s;
+ /*动画次数*/
+ animation-iteration-count: infinite;
+ /*匀速*/
+ animation-timing-function: linear;
+  }
+.loopimg > ul > li{
+ float: left;
+ list-style: none;
+ }
+#foot{
+ border: 1px solid black;
+ height: 80px;
+ width: 100%;
+ text-align: center;
+}
+@keyframes move {
+  /*动画起始位置*/
+  0%{
+  transform: translateX(0px);
+  }
+ /*动画结束状态*/
+ 100%{
+  transform: translateX(-2086.24px);
+  }
+ }
+
+
+</style>
