@@ -6,6 +6,10 @@
 ![水果忍者](html5-fruit-ninja/水果忍者运行截图.png)
 
 ### 项目二：
-正在完成中...
+[中国象棋](https://afishing.me//Chinese-chess/index.html)
 
+![中国象棋](Chinese-chess/Chinese-chess-picture.png)
+
+### 项目三：
+正在完善中...
 
