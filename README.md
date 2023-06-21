@@ -1,16 +1,11 @@
-# 这是我的第一个带域名的网站
-## 具体内容将会在暑假时期公布
+## 项目大汇总：
 
-## 先玩一会儿小游戏
- [点我进入游戏主页](https://afishing.me/game.html)。
+### 项目一：
+[水果忍者游戏](https://github.com/afishing/afishing.github.io/blob/main/html5-fruit-ninja/index.html)
 
-### 或者请先看会儿别的
-[图片展示方式一](https://afishing.me/firstShow.html)<br>
-[图片展示方式二](https://afishing.me/secondShow.html)<br>
+![水果忍者](html5-fruit-ninja/水果忍者运行截图.png)
 
-#### 后续还会不断更新，谢谢您的观看！！！
-
-
-
+### 项目二：
+正在完成中...
 
 
